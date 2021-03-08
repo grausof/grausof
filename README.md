@@ -8,5 +8,5 @@
 
 > The innovation distinguishes between leader and a follower! - Steve Jobs
 
-![grausof's github stats](https://github-readme-stats.vercel.app/api?username=grausof&hide=contribs,prs&show_icons=true&hide_border=true&text_color=bfbfbf&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grausof&layout=compact&hide_border=true)
+![grausof's github stats](https://github-readme-stats.vercel.app/api?username=grausof&hide=contribs,prs&show_icons=true&hide_border=true&text_color=828282&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grausof&layout=compact&hide_border=true&text_color=828282&bg_color=00000000)
