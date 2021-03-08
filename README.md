@@ -6,5 +6,5 @@
 
 🚀 ⚡ In my spare time I am a maker and an inexperienced drone pilot 😅
 
-![grausof's github stats](https://github-readme-stats.vercel.app/api?username=grausof&hide=contribs,prs&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grausof&layout=compact&hide_border=true&theme=dark)
+![grausof's github stats](https://github-readme-stats.vercel.app/api?username=grausof&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grausof&layout=compact&hide_border=true)
